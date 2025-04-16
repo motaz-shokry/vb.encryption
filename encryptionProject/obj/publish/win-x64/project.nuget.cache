@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "a2zNF8QkEqk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\window\\Desktop\\معتز الحطامي\\encryptionProject\\encryptionProject\\encryptionProject.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\window\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.7\\microsoft.net.illink.tasks.8.0.7.nupkg.sha512",
+    "C:\\Users\\window\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.7\\microsoft.netcore.app.runtime.win-x64.8.0.7.nupkg.sha512",
+    "C:\\Users\\window\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.7\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.7.nupkg.sha512",
+    "C:\\Users\\window\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.7\\microsoft.aspnetcore.app.runtime.win-x64.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
